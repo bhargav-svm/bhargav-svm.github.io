@@ -1,13 +1,15 @@
-title: Immaculate
+title: CryptoML
 description: >
-  A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
-baseurl: ""
-url: "https://cryptoml.github.io"
+  Cryptology. Machine Learning.
+url: "/"
 paginate:	2 # The number of posts to show per page on your homepage
-name: "Lau Siaw Young"
+name: "M. Bhargav Sri Venkatesh"
 markdown: kramdown
 permalink: none
 kramdown:
   parse_block_html: true
 gems:
   - jekyll-paginate
+  - jekyll-compose
+  - jekyll-sass-converter
+  - jekyll-textile-converter
