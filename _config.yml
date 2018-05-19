@@ -3,7 +3,7 @@ description: >
   Cryptology. Machine Learning.
 url: "/"
 paginate:	3 # The number of posts to show per page on your homepage
-name: "M. Bhargav Sri Venkatesh"
+name: "SRI"
 markdown: kramdown
 permalink: none
 kramdown:
