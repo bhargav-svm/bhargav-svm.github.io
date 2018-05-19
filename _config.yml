@@ -2,7 +2,7 @@ title: CryptoML
 description: >
   Cryptology. Machine Learning.
 url: "/"
-paginate:	2 # The number of posts to show per page on your homepage
+paginate:	3 # The number of posts to show per page on your homepage
 name: "M. Bhargav Sri Venkatesh"
 markdown: kramdown
 permalink: none
@@ -12,4 +12,3 @@ gems:
   - jekyll-paginate
   - jekyll-compose
   - jekyll-sass-converter
-  - jekyll-textile-converter

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lau Siaw Young - Articles</title>
-    <description>A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
+    <title>M. Bhargav Sri Venkatesh - Articles</title>
+    <description>Cryptology. Machine Learning.
 </description>
     <link>
-    https://github.com/siawyoung/immaculate</link>
+    /</link>
     
       
       <item>
@@ -15,10 +15,10 @@
 
 </description>
         
-        <pubDate>Wed, 30 Mar 2016 00:00:00 +0800</pubDate>
+        <pubDate>Wed, 30 Mar 2016 00:00:00 +0530</pubDate>
         <link>
-        https://github.com/siawyoung/immaculate/immaculate-showcase.html</link>
-        <guid isPermaLink="true">https://github.com/siawyoung/immaculate/immaculate-showcase.html</guid>
+        //immaculate-showcase.html</link>
+        <guid isPermaLink="true">//immaculate-showcase.html</guid>
       </item>
       
     
