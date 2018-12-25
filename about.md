@@ -3,6 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+Curriculum Vitae:
+[Link Text](https://bhargav-svm.github.io/CV.pdf)
+
 Publications:
 
 "S-Box" Implementation of AES is NOT side-channel resistant
