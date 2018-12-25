@@ -18,7 +18,7 @@ C Ashokkumar, M. Bhargav Sri Venkatesh, Ravi Prakash Giri, Bholanath Roy and Ber
 Journal of the Indian Academy of Sciences, 2018.
 [https://bhargav-svm.github.io/sadhana.pdf](https://bhargav-svm.github.io/sadhana.pdf)
 
-Design, Implementation and Performance Analysis of Highly Efficient Algorithms for AES Key Retrieval in Access-driven Cache-based Side Channel Attacks, 2016.
-Ashokkumar C, M. Bhargav Sri Venkatesh, Ravi Prakash Giri and Bernard L Menezes
+Design, Implementation and Performance Analysis of Highly Efficient Algorithms for AES Key Retrieval in Access-driven Cache-based Side Channel Attacks
+Ashokkumar C, M. Bhargav Sri Venkatesh, Ravi Prakash Giri and Bernard L Menezes, 2016.
 [https://eprint.iacr.org/2017/896](https://eprint.iacr.org/2017/896)
 [https://www.cse.iitb.ac.in/internal/techreports/reports/TR-CSE-2016-78.pdf](https://www.cse.iitb.ac.in/internal/techreports/reports/TR-CSE-2016-78.pdf)
